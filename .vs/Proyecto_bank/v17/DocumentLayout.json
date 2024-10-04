@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|c:\\users\\user\\onedrive\\proyecto_bank22\\proyecto_bank\\proyecto_bank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\proyecto_bank\\pages\\movimientos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C72B9F-78BA-41FC-885E-ABB90BBA1200}|Proyecto_bank\\Proyecto_bank.csproj|solutionrelative:proyecto_bank\\pages\\movimientos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T20:37:14.371Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Index1.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:13:23.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Proyecto_bank\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Proyecto_bank\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T21:37:33.881Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Menu.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Menu.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T14:18:32.012Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimientos.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Movimientos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Movimientos.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Movimientos.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Movimientos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T16:09:15.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:42:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_bank\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Proyecto_bank22\\Proyecto_bank\\Proyecto_bank\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto_bank\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:43:11.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
